@@ -1,5 +1,5 @@
 
-# 🚀 Disparador de E-mails - Contador de Padarias
+# 🚀 Disparador de E-mails
 
 Este é um projeto simples e funcional que permite o envio de e-mails personalizados para múltiplos destinatários usando diferentes provedores (Gmail, Outlook, Yahoo, etc.) através de uma interface gráfica criada com **PyQt5**. O objetivo é facilitar o envio de e-mails diretamente de uma aplicação sem a necessidade de acessar plataformas externas.
 
